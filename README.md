@@ -1,4 +1,4 @@
-# YOLOv8 Traffic Object Detection Readme
+# YOLOv8 Traffic Object Detection
 
 This repository contains code to train a YOLOv8 model on the COCO dataset for the task of road traffic object detection and classification on a video clip. The aim is to identify and track objects such as cars, trucks, motorcycles, and buses in the video clip. The approach is based on the roboflow tutorial : https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-track-and-count-vehicles-with-yolov8.ipynb?ref=roboflow-blog#scrollTo=Q9ppb7bFvWfc
 
