@@ -6,6 +6,8 @@ This repository contains code to train a YOLOv8 model on the COCO dataset for th
 
 The COCO dataset was used for training the model. The dataset is widely used for object detection tasks and contains annotations for a wide variety of objects, including those typically found in road traffic scenarios. The dataset can be downloaded from the following link: https://cocodataset.org/#download.
 
+https://www.kaggle.com/datasets/ryankraus/traffic-camera-object-detection
+
 ## Method
 
 The You Only Look Once version 8 (YOLOv8) object detection algorithm was used for this project. This algorithm is known for its high accuracy and fast processing speed, making it ideal for real-time object detection tasks. The YOLOv8 algorithm is based on a convolutional neural network architecture and uses a single neural network to predict bounding boxes and class probabilities directly from full images.
